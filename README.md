@@ -2,7 +2,7 @@
 
 **Comparing different loss functions via linear and 2nd degree polynomial regression.**
 
-```Data Generation.ipynb``` is the notebook used to generated the data used for the task. We apply Gaussian noise on a half degree polynomial to generated the required dataset.<br>
+```Data Generation.ipynb``` is the notebook used to generate the data used for the task. We apply Gaussian noise on a half degree polynomial to generated the required dataset.<br>
 ```data.csv``` is the dataset used for the task.<br>
 ```Criterion.ipynb``` is the main notebook for the task.
 

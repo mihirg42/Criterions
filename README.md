@@ -26,3 +26,4 @@ Whereas, in polynomial regression ![equation](http://www.sciweavers.org/upload/T
 ![equation](http://www.sciweavers.org/upload/Tex2Img_1629392315/eqn.png)
 
 
+# test
